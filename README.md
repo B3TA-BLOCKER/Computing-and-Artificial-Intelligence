@@ -12,7 +12,7 @@ The repository is organized into the following directories:
 
 1. `Assignments`: Completed assignments related to the course.
 2. `Quiz Solutions`: Solutions for quizzes conducted during the semester.
-3. `Self Learning`: Additional self-learning projects and code developed independently.
+3. `Self Learning`: Additional self-learning codes developed independently.
 
 Feel free to navigate through these folders to access specific content based on your interest.
 

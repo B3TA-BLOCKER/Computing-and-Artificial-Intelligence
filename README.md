@@ -10,8 +10,8 @@ Explore the C++ code developed throughout the first semester of CS-101, covering
 
 The repository is organized into the following directories:
 
-1. `Quiz Solutions`: Solutions for quizzes conducted during the semester.
-2. `Assignments`: Completed assignments related to the course.
+1. `Assignments`: Completed assignments related to the course.
+2. `Quiz Solutions`: Solutions for quizzes conducted during the semester.
 3. `Self Learning`: Additional self-learning projects and code developed independently.
 
 Feel free to navigate through these folders to access specific content based on your interest.

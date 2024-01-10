@@ -11,7 +11,7 @@ Explore the C++ code developed throughout the first semester of CS-101, covering
 The repository is organized into the following directories:
 
 1. `Assignments`: Completed assignments related to the course.
-2. `Practise Questions`: Sharpen your skills with additional practice questions designed to reinforce the course material
+2. `Practise Questions`: This section provides hands-on experience to help solidify your understanding.
 3. `Quiz Solutions`: Solutions for quizzes conducted during the semester.
 4. `Self Learning`: Additional self-learning codes developed independently.
 

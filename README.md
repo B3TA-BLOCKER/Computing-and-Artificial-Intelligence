@@ -1,4 +1,4 @@
-# CS-101: Computing and Artificial Intelligence - Semester 1 🤖💻
+# Semester 1 - CS-101: Computing and Artificial Intelligence 🤖💻
 
 Welcome to the repository for the first semester of CS-101, focusing on Computing and Artificial Intelligence. This repository contains the C++ code and related files created during the course.
 
